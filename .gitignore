@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Project specific
+baselines/
+reports/
+.env
+*.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# macOS
+.DS_Store
